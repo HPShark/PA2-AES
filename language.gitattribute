@@ -1,5 +1,0 @@
-*.c linguist-language=Python
-*.h linguist-language=Python
-*.o linguist-language=Python
-*.java linguist-language=Python
-*.rb linguist-language=Python
